@@ -1,5 +1,8 @@
 ## OSS!! My name is Juan Passos.
 
+🧑‍💻I study computer science at USP and I really like competitive programming and jiu-jitsu.🥋
+##
+
 <div>
   <a href="https://github.com/JuanHPassos">
   <img  width="51%" height="180cm" src="https://github-readme-stats.vercel.app/api?username=JuanHPassos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"\>
