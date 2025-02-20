@@ -1,31 +1,25 @@
-## OSS!! My name is Juan Passos.
+<h1 align="left">Juan Passos</h1>
 
-🧑‍💻I study computer science at USP and I really like competitive programming and jiu-jitsu.🥋
-##
+## Hello, Guys!
+I am 20 years old, living in São Carlos-SP, a programming enthusiast who loves jiu-jitsu! Currently, I see studies as an extension of the mat, where discipline, perseverance, and learning from mistakes are key. This mindset makes me love programming even more!
 
-<div>
-  <a href="https://github.com/JuanHPassos">
-  <img  width="51%" height="180cm" src="https://github-readme-stats.vercel.app/api?username=JuanHPassos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"\>
-  <img width="48%" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanHPassos&layout=compact&langs_count=16&hide=prolog,makefile&theme=tokyonight"\>
 </div>
 
-<div style="display: inline_block"><br>
-    <img align="center" alt="JuanC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-    <img align="center" alt="JuanCpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-    <img align="center" alt="JuanPy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img align="center" alt="JuanJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img align="center" alt="JuanNodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-    <img align="center" alt="JuanExpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
-</div>
+<img align="right" width="400px" src="./GIF/streetfigher.gif" />
 
+## Technologies and Tools:
+ 
+ <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title = "C"/></code>
+ <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title = "cplusplus"/></code>
+ <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "Python"/></code>
+ <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JavaScript"/></code>
+ <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" title = "NodeJS"/></code>
+ <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "Git"/></code>
 
+## Social Networks:
 
-##
-
-<div>
   <a href="mailto:juan12.henriques@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/juanh_p/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/juan-passos-b06472323/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-</div>
+  <a href="https://www.instagram.com/juanh_p/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/juan-passos-b06472323/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
+</div>
