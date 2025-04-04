@@ -23,10 +23,10 @@ I am 20 years old, living in São Carlos-SP, a programming enthusiast who loves 
   <a href="https://www.linkedin.com/in/juan-passos-b06472323/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 ## GitHub Stats:
-
-
-
- <img align="left" height="195em" src="https://github-readme-stats.vercel.app/api?username=JuanHPassos&show_icons=true&theme=tokyonight"/>
- <img align="right" height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanHPassos&theme=tokyonight"/>
+</br>
+<div style="display: flex; flex-direction: row; gap: 10px; align-items: center;">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JuanHPassos&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanHPassos&theme=tokyonight"/>
+</div>
 
 </div>
