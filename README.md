@@ -1,7 +1,7 @@
 <h1 align="left">Juan Passos</h1>
 
 ## Hello, Guys!
-I am 20 years old, living in São Carlos-SP, a programming enthusiast who loves jiu-jitsu! Currently, I see studies as an extension of the mat, where discipline, perseverance, and learning from mistakes are key. This mindset makes me love programming even more!
+I am 21 years old, living in São Carlos-SP, a programming enthusiast who loves jiu-jitsu! Currently, I see studies as an extension of the mat, where discipline, perseverance, and learning from mistakes are key. This mindset makes me love programming even more!
 
 </div>
 
@@ -23,10 +23,13 @@ I am 20 years old, living in São Carlos-SP, a programming enthusiast who loves 
   <a href="https://www.linkedin.com/in/juan-passos-b06472323/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 ## GitHub Stats:
-</br>
-<div style="display: flex; flex-direction: row; gap: 10px; align-items: center;">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JuanHPassos&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanHPassos&theme=tokyonight"/>
-</div>
 
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JuanHPassos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Juan" />
+  </a>
+  <a href="https://github.com/konpa/devicon">
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanHPassos&theme=tokyonight" alt="Streak do GitHub de Juan" />
+  </a>
+</p>
 </div>
