@@ -24,6 +24,7 @@ I am 21 years old, living in São Carlos-SP, a programming enthusiast who loves 
 
 ## GitHub Stats:
 <br>
+<br>
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanHPassos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Juan" />
